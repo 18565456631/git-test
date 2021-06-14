@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("master hello git5！");
         System.out.println("feature/niannian hello git5");
         System.out.println("feature/niannian hello git5");
+        System.out.println("commit push");
     }
 }
